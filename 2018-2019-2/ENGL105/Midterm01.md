@@ -15,14 +15,19 @@ Lorem ipsum dolor sit amet.
 
 
 #### The Necklace, Guy de Maupassant
+
 Omniscent PoV
+
 Linear characters(No progress)
+
 Well clarified character traits.
 Linear story.
 Resolution oriented story -> everything is written for a resolution
 
 ##### Plot
+
 Mathilde's husband, clerk to the Ministry of Public Instruction, one night comes with an invitation to a party hosted by Ministry of Public Instruction. She claims that she hasn't got any jewelry to wear at the event, and, asks her rich friend to lend her one of her jewelry to wear in the party. Her friend agrees to lend and lends expensive looking jewelry. At party night she was praised by everyone at the party,and when its time for leaving, she descended the stairs fast. When they get in to night taxi, she founds out that she has lost the necklace. Next day they tried to replace the necklace with the same one or imitated one. They find one but its too expensive. Nevertheless they buy the necklace with borrowed money and their savings. After 10 years of misery, she bumps into her friend in the street, and, when her friend asks what happened to you, she explains the whole situation, and, she says it was a fake one and you shouldn't have to do all of that.
+
 ##### Theme
 
 Be satisfied with what you have.
