@@ -2,11 +2,35 @@
 
 ##### Plot
 
-Lorem ipsum dolor sit amet.
+- The protagonist wants to meet his father.
+
+- They meet at the Grand Central Station.
+
+- They go to four restaurants.
+  - First restaurant: They 're told to leave.
+  - Second restaurant: They could drink only one drink, refused to be served second.
+  - Third restaurant: They leave again without a drink.
+  - Fourth restaurant: An Italian restaurant. They're told that all the tables are reserved.
+
+- The protagonist needs to leave.
+
+- Father wants to buy a newspaper for him to read on the train.
+
+- The protagonist says "goodbye" and leaves without receiving an answer (No final goodbye).
 
 ##### Themes
 
-Lorem ipsum dolor sit amet.
+- The story is a sad account of a failure.
+  - to reunite / to connect to a loved (close) person.
+  - Learning from your mistakes?
+
+- By focusing on the father's dysfunctional (disappointing) masculinity, the story describes the emptiness & the arbitrariness of gender identity.
+
+- The story shows that frustration of a son that wants to (re)connect with his alcoholic father, but the father fails to satisfy his "needs"
+  - How does insecurity prevent genuine contact/relationship
+  - Perfection --> re-think/re-evaluate your desire for perfection
+
+- The story comments on the temporary quality of family relations in modern life symbolized by the train station.
 
 
 
