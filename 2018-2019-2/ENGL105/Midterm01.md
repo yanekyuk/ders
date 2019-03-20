@@ -21,7 +21,9 @@ Omniscent PoV
 Linear characters(No progress)
 
 Well clarified character traits.
+
 Linear story.
+
 Resolution oriented story -> everything is written for a resolution
 
 ##### Plot
@@ -31,7 +33,9 @@ Mathilde's husband, clerk to the Ministry of Public Instruction, one night comes
 ##### Theme
 
 Be satisfied with what you have.
+
 Don't be greedy.
+
 Don't get fooled by appearence.
 
 
@@ -41,7 +45,9 @@ Don't get fooled by appearence.
 
 #### The Lady with the Dog, Anton Chekhov
 Untraditional style
+
 Lack of completion
+
 Non-linear characters
 
 ##### Plot
@@ -50,9 +56,13 @@ Anna goes to Malta to have a little vacation. There she meets a man named Gurov,
 ##### Theme
 
 Love? 
+
 Loneliness
+
 Self-restraint
+
 Appearence vs Reality
+
 Story shows how a casual relationship makes people confront their problems.
 
 
@@ -81,8 +91,11 @@ The story opens with the description of a flowerbed in a garden, detailing the c
 ##### Theme
 
 Critisizing the progress
+
 Harmony in the order of things
+
 Banality of everyday life
+
 
 
 ---
