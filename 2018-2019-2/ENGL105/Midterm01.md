@@ -13,18 +13,12 @@ Lorem ipsum dolor sit amet.
 ---
 
 
-
 #### The Necklace, Guy de Maupassant
 
-Omniscent PoV
-
-Linear characters(No progress)
-
-Well clarified character traits.
-
-Linear story.
-
-Resolution oriented story -> everything is written for a resolution
+- Omniscent PoV
+- Linear characters (no change in character) and story
+- Stereotypical characters
+- Resolution oriented story :arrow_right: everything is written for resolution
 
 ##### Plot
 
@@ -32,39 +26,25 @@ Mathilde's husband, clerk to the Ministry of Public Instruction, one night comes
 
 ##### Theme
 
-Be satisfied with what you have.
-
-Don't be greedy.
-
-Don't get fooled by appearence.
-
-
----
-
-
+- Satisfaction, greediness, appearance vs. reality, being a cliché :smile:
 
 #### The Lady with the Dog, Anton Chekhov
-Untraditional style
+- Untraditional style for its time
 
-Lack of completion
-
-Non-linear characters
+- Story is not focused on ending. Open-ended story.
+- Non-linear, in-depth  characters
 
 ##### Plot
+
 Anna goes to Malta to have a little vacation. There she meets a man named Gurov, who is a womanizer. Gurov and Anna has an affair, and, Anna receives a letter from her husband telling her to come home immediately because his eyes were infected. Anna bids farewell to Gurov, and, returns to S-*. Some time later Gurov returns to S-, and, confronts Anna, and, she says him to leave, and, don't come back because she was in love with him. After some time later, Anna goes to Moscow to see Gurov.
-*it waas never mentioned where S- is
+
+:one: it was never mentioned where S- is
+
 ##### Theme
 
-Love? 
+- Love, loneliness, self-restraint, appearence vs. reality
 
-Loneliness
-
-Self-restraint
-
-Appearence vs Reality
-
-Story shows how a casual relationship makes people confront their problems.
-
+- Story shows how a casual relationship makes people confront their problems.
 
 ---
 
