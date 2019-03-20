@@ -1,0 +1,20 @@
+### CHAPTER 1
+# What is Language?
+### Summary
+- The words of a language can be listed in a dictionary, but not all sentences can be.
+- Grammar includes: phonology, morphology, lexicon, syntax, semantics __arbitrarily__.
+- The gestures used by signers are also arbitrarily related to their meanings.
+- Knowing a language means **knowing its system** called **linguistic competence** but it is different from behavior called **linguistic performance** which are the limitations such as memory, endurance etc.
+- There are different types of grammars:
+  - **Descriptive Grammar** of a language represents the unconscious linguistic knowledge or capacity of its speakers. Such a grammar is a model of the **mental grammar** every speakers of the language possesses. **It does not teach, it describes the already known**.
+  - **Prescriptive Grammar** of a language, on the other hand, attempts to legislate what your grammar should be. **Teaching grammars** are written to help people learn a foreign language or a dialect of their own language.
+  - **Universal Grammar** provides a blueprint of the grammars of all possible human languages. It constitutes the **innate component of the human language faculty that makes language development in children possible**.
+- **Sign language** show that the ability to hear or produce sounds is not a prerequisite for language learning. The ability of human beings to acquire, know, and use language is a biologically based ability rooted in the structure of the human brain, and expressed in different modalities (spoken or signed).
+- If language is defined merely as a system of communication, or the ability to produce speech sounds, then language is not unique to humans. But it can't be defined as such. Because:
+  - **Creativity**: A speakers ability to combine the basic linguistic units to form an infinite set of "well formed" grammatical sentences, most of which are novel, never before produced or heard.
+  - **Discreteness**: Human language are not made up of a fixed set of invariant signs. They are composed of discrete units _-sounds, words, phrases-_ that are combined according to the rules of the grammar of the language. _i.e_ **pot vs. opt**, **the mat on the cat vs. the cat on the mat** (same symbols, different meanings)
+  - **Displacement**: In human language, words and sentences are not simply responses to internal and external stimuli. If you're tired you may yawn, but you may also say "I'm tired", or "I'm going to bed" or "I'm going to Starbucks for a double espresso". Notably, you also have the right to remain silent, or talk about things completely unrelated to your physical state _-the weather, the movie you say last night-_
+- For many years researchers were interested whether language is a uniquely human ability or not There have been attempts to teach nonhuman primates to communicate using sign language or symbolic systems that resemble human language, and results have been disappointing.
+  - Careful examination of chimpanzees who have been trained to use symbols and signs reveals that their multi-sign utterances are unlike children, and they show little creativity or spontaneity. Their "utterances" are **highly imitative**, often unwittingly cued by trainers, and have **little syntactic structure**.
+  - Some highly intelligent dogs have also learned a significant number of words, but their learning is restricted to a specific context and it is likely that their "meaning" for these words are very different from the symbolic or referential meanings that would be learned by a human child.
+- The **Sapir-Whorf Hypothesis** holds that the particular language we speak determines or influences our thoughts and perceptions of the world (**Linguistic Determinism**). Much of the early evidence in support of this hypothesis has not stood the test of time. More recent studies suggest that the words and grammar of a language may affect aspects of cognition (**Linguistic Relativism**), such as **memory** and **categorization**. 
