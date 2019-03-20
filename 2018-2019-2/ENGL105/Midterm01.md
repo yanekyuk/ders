@@ -15,11 +15,19 @@ Lorem ipsum dolor sit amet.
 
 
 #### The Necklace, Guy de Maupassant
+Omniscent PoV
+Linear characters(No progress)
+Well clarified character traits.
+Linear story.
+Resolution oriented story -> everything is written for a resolution
 
 ##### Plot
-
+Mathilde's husband, clerk to the Ministry of Public Instruction, one night comes with an invitation to a party hosted by Ministry of Public Instruction. She claims that she hasn't got any jewelry to wear at the event, and, asks her rich friend to lend her one of her jewelry to wear in the party. Her friend agrees to lend and lends expensive looking jewelry. At party night she was praised by everyone at the party,and when its time for leaving, she descended the stairs fast. When they get in to night taxi, she founds out that she has lost the necklace. Next day they tried to replace the necklace with the same one or imitated one. They find one but its too expensive. Nevertheless they buy the necklace with borrowed money and their savings. After 10 years of misery, she bumps into her friend in the street, and, when her friend asks what happened to you, she explains the whole situation, and, she says it was a fake one and you shouldn't have to do all of that.
 ##### Theme
 
+Be satisfied with what you have.
+Don't be greedy.
+Don't get fooled by appearence.
 
 
 ---
@@ -27,11 +35,20 @@ Lorem ipsum dolor sit amet.
 
 
 #### The Lady with the Dog, Anton Chekhov
+Untraditional style
+Lack of completion
+Non-linear characters
 
 ##### Plot
-
+Anna goes to Malta to have a little vacation. There she meets a man named Gurov, who is a womanizer. Gurov and Anna has an affair, and, Anna receives a letter from her husband telling her to come home immediately because his eyes were infected. Anna bids farewell to Gurov, and, returns to S-*. Some time later Gurov returns to S-, and, confronts Anna, and, she says him to leave, and, don't come back because she was in love with him. After some time later, Anna goes to Moscow to see Gurov.
+*it waas never mentioned where S- is
 ##### Theme
 
+Love? 
+Loneliness
+Self-restraint
+Appearence vs Reality
+Story shows how a casual relationship makes people confront their problems.
 
 
 ---
@@ -58,6 +75,9 @@ The story opens with the description of a flowerbed in a garden, detailing the c
 
 ##### Theme
 
+Critisizing the progress
+Harmony in the order of things
+Banality of everyday life
 
 
 ---
