@@ -89,6 +89,8 @@ Important notes:
 	- But in Mathel's it was younger people who pronounced /r/.
 ```
 
+![classpattern](./src/classpattern.jpg)Word List, Reading Phrases, Formal, Casual
+
 ```
 Trudgill's Norwich Study
 
@@ -102,19 +104,44 @@ Result:
 In Gender Preferential Variation: 
 ```
 
-##### Explanations of women's linguistics behavior
+### Language & Gender
 
-- Linguistic insecurity
+- When people self-report:
+  - women over-reported their use of standard forms. That shows us that they prefer standard form for prestige. 
+  - men under-reported their use of standard forms. The prestige of standard form is not that great for men. So, the non-standard form has **covert prestige** for men speakers.
 
-- Social status explanation
+- Explanations of women's linguistics behavior
+  - Linguistic insecurity
 
-  Women use more standard forms that men because they are more status conscious. As standard speech forms are typically associated with higher social status, women use them as a way of claiming status.
+  - Social status explanation
 
-- Women's role as guardian's of society's values
+    Women use more standard forms that men because they are more status conscious. As standard speech forms are typically associated with higher social status, women use them as a way of claiming status.
 
-  Society expects better behavior from women than men.
+  - Women's role as guardian's of society's values
 
-- Subordinate groups must be polite
+    Society expects better behavior from women than men.
 
-- Vernacular forms express machismo (covert prestige)
+  - Subordinate groups must be polite
 
+  - Vernacular forms express machismo (covert prestige)
+
+- Innovative vs. Conservative
+
+  - If innovation has a bad connotation, then women are innovative
+
+  - If conservation has a bad connotation, then women are conservative
+
+  - Women tend to use hyperbole
+
+    ```
+    Lakoff - 1974 | Language and Women's Place
+    Describes women's language has typical features like they tend to 
+     - use more hedging, 
+     - use empty adjectives (awfully beautiful), 
+     - use more precise color terms, 
+     - use rising intonation in statements (uptalk, as if it is a question), 
+     - speak more
+    ```
+
+    - **Dominance Approach**: Because men dominate women, women tend to speak as it is written up there. If a woman is not dominated in a situation, she doesn't speak in that fashion. Or, if a man is dominated in a situation, he tends to speak in that fashion.
+    - **Difference Approach**: Men and women might speak differently. But that doesn't mean that one is better than the other. They learn to use language differently because of their backgrounds.
