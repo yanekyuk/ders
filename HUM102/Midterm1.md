@@ -287,6 +287,9 @@
 
 ## Texts
 
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=252594" frameborder="0" allowfullscreen></iframe>
+<div><a  style="font-size: 12px; text-decoration: none;" title="Business timeline" href="https://time.graphics">Business timeline</a></div>
+
 #### "Lives of the Artists", Vasari, 1550
 
 > Renaissance, perspective, humanism, conceptual (vs. symbolism), realism (vs. divine)
