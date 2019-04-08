@@ -28,3 +28,26 @@ Conclusion - 1 pr.
 1. Repetitiveness and restatement is favorable in speech but not so in essays.
 2. Subjective phrases (I think, I, me, etc.) are favorable in speech, not so in essays.
 3. Ideally 10 minutes.
+
+---
+
+### Second Project
+
+> times new, double space (4-5 pages), 12pt
+
+Keywords: `self-reflection, masterpiece, biography, autobiography, interviews`
+
+- Look for parallelism between masterpiece and author's life story
+
+- Minimum of one primary, two secondary sources. Optionally secondary criticism.
+
+- Undergrade Student's Guide of Essay (**MLA**, CBE, APA, CMS)
+
+  ---
+
+- Write a comprehensive essay discussing the self-reflection of one canonical artist, drawing both on their (auto)biographies, interviews and their masterpieces. May 1 - May 15 through Turnitin.
+
+  - Minimum 3 sources (1 primary, 2 secondary)
+  - Times New Roman, 12pt., 4-5 pages with addition to cover page and citation page.
+
+- 
