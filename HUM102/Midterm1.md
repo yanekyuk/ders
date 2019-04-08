@@ -292,9 +292,13 @@
 > Renaissance, perspective, humanism, conceptual (vs. symbolism), realism (vs. divine)
 
 **Era** Renaissance, European Reformation
+
 **People** *Cimabue*, *Giotto*, *Brunelleschi*
+
 **Nature** Starting from Giotto, Renaissance artists followed Ancient Greeks' lead and saw the perfection in Nature. They became keen observers and learned from Nature. `realism in renaissance art` `imitation of nature`
+
 **Art** *Vasari*, in this text, underlines the lack of progress until Renaissance by making an example of *Cimabue*'s art and its comparison to his (Cimabue) pupil *Giotto*. *Giotto*, who imitated nature probably because of his shepherd background, is responsible for the advancement (realism) in arts (*i.e.* Giotto, one day, draws a fly on Cimabue's painting, when Cimabue sees it, he tries to shoo it). Through this advancement, the artists gained social power (*i.e.* Giotto declines Mr. Nobody's offer of painting his shield his coat-of-arms).Finally, he mentions *Brunelleschi*, who did come up with a mathematical basis for linear perspective and by doing that revived the art of architecture. `perspective, realism`
+
 **Religion** Painting religious murals was the source of income for artists before and in the beginning of Renaissance. *Cimabue* was a renowned artist in this field but his pupil *Giotto* surpassed him. As a result of Giotto's works, later artists started to draw religious figures more human-like (*i.e.* naked baby Jesus).
 
 #### "On Cannibals", Montaigne, 1580
@@ -302,12 +306,19 @@
 >Noble Savage, cultural relativism
 
 **Era** Renaissance, European Reformation
+
 **People** Tupinambá, discovered by Portuguese in Brazil which was on the Portuguese part of Americas according to the Treaty of Tordesillas
+
 **Otherness** Natives are the other in this text. Montaigne makes a point that instead of judging "the other", one can try to understand. 
+
 **Civilization** Critique of Eurocentric knowledge: evaluating others' customs through one's own custom. He points out that people in Europe can act barbarously for reasons such as difference in religion. On the other hand, the natives have valor in war and love for wives in common with "civilized" societies.
+
 **Dialectic** The native people of Tupinamba fight with each other not for land or resources but for glory. They prefer to be eaten rather than accepting the superiority of the other.
+
 **Inequality** Natives question the child ordering and old man.
+
 **Religion** Montaigne is able to say "Polygamy is better than monogamy" which is forbidden by church.
+
 **Credibility**  This essay is one of first examples of such manner of honest writing. He says there were two questions but he forgot one, so he will at least talk about that one.
 
 #### "The Merchant of Venice", Shakespeare, ~1596
@@ -315,10 +326,15 @@
 >Antisemitism
 
 **Era** European Reformation, Elizabethan Era
+
 **People** *Antonio*, Shylock, *Portia*, Bassanio
+
 **Otherness** *Shylock*
+
 **Identity** *Shylock* vs. *Portia*
+
 **Wealth** Multiple source of wealth: inheritance (Portia), trade (Antonio), interest (Shylock)
+
 **Inequality** Antisemitism was popular during the time this text was written. All through the story Shylock, the Jew moneylender was excluded because of his religion. This "hatred of other" is applicable to both sides.
 
 #### "Letter to the Grand Duchess Christina of Tuscany", Galileo, 1615
@@ -326,9 +342,13 @@
 >Heliocentrism, Copernicanism
 
 **Era** ~End of European Reformation and ~start of Age of Enlightenment
+
 **Ideas** Religion vs. scientific truth
+
 **People**
+
 **Nature** Nature as immutable source of <small>scientific</small> truth
+
 **Knowledge** of nature vs. theology (church censorship)
 
 #### "Meditations on First Philosophy", Descartes, 1641
@@ -336,9 +356,13 @@
 > Certainty of True Knowledge
 
 **Era** Age of Enlightenment
+
 **Self** As a Cartesian philosopher, he makes the distinction of mind and body. Self-contained "I" `cogito ergo sum`
+
 **Knowledge** Only the certainty of the self (dualism of mind and body—Cartesianism—)
+
 **Reason** Use of reason vs. sense perceptions
+
 **Freedom** Dualism mind-body
 
 ---
@@ -348,12 +372,19 @@
 > Physical Inequality vs. Moral Inequality, Noble Savage, Counter-Enlightenment
 
 **Era** Age of Enlightenment
+
 **Identity** The Caribs
+
 **Self** *amour-de-soi* vs. *amour-propre*, self preservation as natural right
+
 **Civilization**  Rousseau thinks of civilization as corrupted, blaming the private property which prevents people from enjoying the fruits of the world.
+
 **Human Nature** Changing the nature of men vs. essence of men
+
 **Reason** No reason in the early stage of nature. 
+
 **Inequality**  He distinguished the inequality into two categories: Physical, natural inequality, which is present in the first stage of nature, and moral, conventional inequality, which is artificially created by humans lately.
+
 **Freedom** Original freedom as human nature vs. civilization as dependence and domination
 
 #### "Wealth of Nations", Adam Smith, 1776
@@ -361,10 +392,15 @@
 > Division of Labour, Source of Wealth
 
 **Era** Age of Enlightenment, Industrial Revolution, American Revolution
+
 **Self** Self-interest as human nature–origin of division of labour—
+
 **Civilization** He marks the civilized nations with the presence of division of labour. He also points out that in savage nations, although everyone is occupied with useful labour, because of the general poorness of the nation, people who are unable to work are left to die.
+
 **Human Nature** Trade, barter, and exchange as human nature `homo economicus`
+
 **Wealth**  According to him, wealth's source is labour. How this labour is used matters greatly. For more wealth, more division of labour is required.
+
 **Labour** He points out the useful labour, in which people create surplus value. 
 
 #### "What is Enlightenment?", Immanuel Kant, 1784
@@ -372,10 +408,15 @@
 > Immaturity
 
 **Era** Age of Enlightenment, Industrial Revolution
+
 **Self** Self-incurred immaturity vs. free thinking
+
 **Human Nature** To Kant, Enlightenment is part of human nature. Humans are naturally free thinkers. They only learned not to do so by society.
+
 **Knowledge** Kant says *sapere* *aude*, *dare to know*. It takes courage to know.
+
 **Freedom** According to Kant, people's self-incurred immaturity held them back from freedom. They depended on other's guidance. They were not able to think for themselves. In order to change this, the proposes that **public use of reason** should be legitimized to scholars. If they had the means of criticizing, they could educate people to a point where they are no more immature. On the other hand, **public use of reason** should be obedient to their public limitations, otherwise there would be chaos. Another example would be Frederick the Great, who was titled **enlightened despot**, said **argue as you like, but obey**.
+
 **Progress** To Kant, revolution only brings more prejudices. He is a fan of slow but fundamental progress in mind.
 
 #### "Phenomenology of Spirit", Hegel, 1807
@@ -383,10 +424,15 @@
 > Master-Bondsman
 
 **Era** Industrial Revolution, <small>after French Revolution</small>
+
 **Otherness** Two self-consciousness facing each other, bondsman
+
 **Identity** The bondsman
+
 **Self** Struggle for recognition
+
 **Inequality** Struggle for recognition, master and slave
+
 **Freedom** Master-Slave dialectic
 
 ---
@@ -396,6 +442,7 @@
 > Slave trade, Istanbul, Orientalism
 
 **Era** Age of Reflection (Romanticism), Victorian Era
+
 **Otherness** This text is very similar to Montaigne's *On Cannibals* regarding the relativist viewpoint of the author. She defends the culture in Istanbul through the eyes of a European.
 
 #### "Bruges-La-Morte", Rodenbach, 1892
@@ -403,10 +450,11 @@
 > Symbolist novel (realist symbolism), modernist novel
 
 **Era** Victorian Era
+
 **People** Hugh Viane, Jane
+
 **Identity** The dead wife vs. Jane
+
 **Women** The dead wife has less identity that the city. The dead wife has no name. The dead wife is objectified, Hugh seems to miss the dead wife's physical being, rather than her person.
 
----
 
-### 
