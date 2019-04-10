@@ -444,8 +444,39 @@ It is basic unit of order / **sequence**. Two turns happening in a specific orde
 
 ##### Interactionism
 
-- Interaction is central to the acquisition of first language.
-- Child Directed Speech is much more regular, cleaner than "poverty of stimulus" argument assumes.
+- **Interaction** is central to the acquisition of first language.
+- **Child Directed Speech** is much more regular, cleaner than "poverty of stimulus" argument assumes.
 
 It is characterized by a slower rate of speech, a higher pitch, quite varied intonation, more pauses, shorter and simpler sentences, and a focus on here and now. It is an effort to communicate with the child. It is fine-tuned accordance with the development of the child.
+
+---
+
+#### Stages of Acquisition
+
+We should keep in mind that there is a large amount of individual variation.
+
+| Time (aprx.)    | Action                             | Description                                                  |
+| --------------- | ---------------------------------- | ------------------------------------------------------------ |
+| 0-4 months      | Cooing                             | Cooing is basically crying. They are vegetative sounds.      |
+| 4-6 months      | Prolonged vowel or consonant sound | [m:], [a:], [o:]                                             |
+| 6-12 months     | Reduplicated Babbling              | [mɑmɑ], [bɑba]                                               |
+| 12-18 months    | One-word stage                     | Using single words for everything. [bɑbɑ] can mean "let's go", "I'm hungry" etc. |
+| 18-20 months    | Two-word stage                     | First signs of syntax usage. "anne gitti", "mama ye", "ye mama"* |
+| 2-2.5 years old | Telegraphic Speech                 | …                                                            |
+
+##### Preverbal Stage
+
+- Children are primed to learn language.
+- Their hearing is as good as adults. (cf. Their sight becomes adult-like only around 6 months)
+- As early as three days old, infants can recognize their mother's voice.
+- Early on children prefer human beings to objects, both visually and auditorily.
+- Since they focus on sounds like voices and things like faces both of which can serve as input for acquisition, we can say that they are ready to learn language.
+- How do we know they pay attention to voices and faces? *By turning head*, *by high amplitude sucking*.
+
+##### Acquisition of Phonology
+
+- Infants are sensitive to all speech sounds used in all languages. Then at about 3 months, they begin to distinguish the phonemes in the language they are exposed to.
+  - First vowels: [a, i, u]
+  - First consonants: [+stop], [+fricative +labial], [+fricative +alveolar] > [+fricative +velar]
+  - First syllables: CV
 

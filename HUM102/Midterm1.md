@@ -285,6 +285,8 @@
 - A **nature morte** is a work of art depicting mostly inanimate subject matter, typically commonplace objects which are either natural (food, flowers, dead animals, plants, rocks, shells, etc.) or man-made (drinking glasses, books, vases, jewelry, coins, pipes, etc.).
 - A **culture morte** is a work of art depicting cities.
 
+<div style="page-break-after: always;"></div>
+
 ## Texts
 
 <iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=252594" frameborder="0" allowfullscreen></iframe>
@@ -330,11 +332,9 @@
 
 **Era** European Reformation, Elizabethan Era
 
-**People** *Antonio*, Shylock, *Portia*, Bassanio
+**People** *Antonio*, *Shylock*, *Portia*, *Bassanio*
 
 **Otherness** *Shylock*
-
-**Identity** *Shylock* vs. *Portia*
 
 **Wealth** Multiple source of wealth: inheritance (Portia), trade (Antonio), interest (Shylock)
 
@@ -348,11 +348,13 @@
 
 **Ideas** Religion vs. scientific truth
 
-**People**
-
 **Nature** Nature as immutable source of <small>scientific</small> truth
 
 **Knowledge** of nature vs. theology (church censorship)
+
+**Religion** He points out that religion tells people how one can go to heaven, not how the heaven goes.
+
+**Censorship** He states that banning has no limit; that is, if one feels free to ban the things that seem against the religion, one can ban the books, ban the people from looking at the sky, or even ban some passages in Bible itself. Censorship cannot stop the truth. 
 
 #### "Meditations on First Philosophy", Descartes, 1641
 
@@ -365,8 +367,6 @@
 **Knowledge** Only the certainty of the self (dualism of mind and body—Cartesianism—)
 
 **Reason** Use of reason vs. sense perceptions
-
-**Freedom** Dualism mind-body
 
 ---
 
@@ -398,7 +398,7 @@
 
 **Self** Self-interest as human nature–origin of division of labour—
 
-**Civilization** He marks the civilized nations with the presence of division of labour. He also points out that in savage nations, although everyone is occupied with useful labour, because of the general poorness of the nation, people who are unable to work are left to die.
+**Civilization** He marks the civilized nations with the presence of division of labour. He also points out that in savage nations, although everyone is occupied with useful labour, because of the general poorness of the nation, people who are unable to work are left to die. On the other hand, in civilized nations, although many don't labour at all, there is still abundance.
 
 **Human Nature** Trade, barter, and exchange as human nature `homo economicus`
 
@@ -418,7 +418,7 @@
 
 **Knowledge** Kant says *sapere* *aude*, *dare to know*. It takes courage to know.
 
-**Freedom** According to Kant, people's self-incurred immaturity held them back from freedom. They depended on other's guidance. They were not able to think for themselves. In order to change this, the proposes that **public use of reason** should be legitimized to scholars. If they had the means of criticizing, they could educate people to a point where they are no more immature. On the other hand, **public use of reason** should be obedient to their public limitations, otherwise there would be chaos. Another example would be Frederick the Great, who was titled **enlightened despot**, said **argue as you like, but obey**.
+**Freedom** According to Kant, people's self-incurred immaturity held them back from freedom. They depended on other's guidance. They were not able to think for themselves. In order to change this, he proposes that **public use of reason** should be legitimized for scholars. If they had the means of criticizing, they could educate people to a point where they are no more immature. On the other hand, **private use of reason** should be obedient to their public limitations, otherwise there would be chaos. Another example would be Frederick the Great, who was titled **enlightened despot**, said **argue as you like, but obey**.
 
 **Progress** To Kant, revolution only brings more prejudices. He is a fan of slow but fundamental progress in mind.
 
@@ -458,6 +458,6 @@
 
 **Identity** The dead wife vs. Jane
 
-**Women** The dead wife has less identity that the city. The dead wife has no name. The dead wife is objectified, Hugh seems to miss the dead wife's physical being, rather than her person.
+**Women** The dead wife has less identity than the city. The dead wife has no name. The dead wife is objectified, Hugh seems to miss the dead wife's physical being, rather than her person.
 
-
+**Symbolism** The dead wife, Hugh, and the City are symbols for each other. All of them were previously more alive (literally or metaphorically), then dead. The city also symbolizes the struggle and suffering of Hugh Viane.

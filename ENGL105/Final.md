@@ -117,6 +117,22 @@
 | ---- | ---------------------------- | ---- |
 |      |                              |      |
 
+### Sound and Rhythm in Poetry
+
+- Poetry began as sound.
+- Today we read poetry, but initially it was meant to be heard.
+- Poetry had more sound effects formerly than it has today.
+- Review the oldest categorization of poetry:
+  - Narrative
+  - Dramatic
+  - Lyric
+- 3 points to consider while analyzing sound and rhythm in poetry:
+  - **Sound Effects** Alliteration, assonance, cacophony, and euphony
+  - **Rhyme**
+  - **Meter**: iambic trimeter, tetrameter, pentameter
+
+
+
 ### Full List
 
 - On Reading Poems to a Senior Class at South High, D.C. Perry
