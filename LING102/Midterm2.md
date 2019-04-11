@@ -480,3 +480,36 @@ We should keep in mind that there is a large amount of individual variation.
   - First consonants: [+stop], [+fricative +labial], [+fricative +alveolar] > [+fricative +velar]
   - First syllables: CV
 
+##### Acquisition of Morphology
+
+- The first inflectional suffixes appear at age 2. Before that children use words like "gitti, attı", however these are not productive usages, they're memorized.
+
+- In English, the first verbal inflectional suffixes are progressives "going, doing", the first nominal is plural `-s`. In the irregular plurals, we see children making typical mistakes such as "foots", for some time there is combined usage of "foots" and "feet" or even "feetses". This is **overgeneralization**. This is a product of **rule-forming**. Then comes the possessive `-'s` *mommy's car*. Then comes the third person agreement `s` *mommy waits*. The first requires an `N` , the second requires an `N-bar`, whereas the third requires `T-bar`.
+
+  | phrase      | requirements |
+  | ----------- | ------------ |
+  | mommy's car | N + `'s`     |
+  | mommy waits | N' + `'s`    |
+  | daddy goes  | T' - v-s     |
+
+- In Turkish, children words suc|h as "geler, olar", overgeneralization can be observed.
+
+##### Acquisition of Lexicon
+
+- For a while, every bearded man is "grampa", every round object is a "cookie", and etc. This is called **overextension**. 
+
+  > Overextension is an error in early word use in which a child uses a single word to label multiple different things in a manner that is inconsistent with adult usage.
+
+- **Underextension**, which is roughly the opposite of overextension, occurs when a child acquires a word for a particular thing and fails to extend it to other objects in the same category, using the word in a highly restricted and individualistic way.
+
+###### Acquisition of Questions
+
+- Questions involve movement in English. The order of acquisitions of questions:
+  1. Only intonation. *Mommy gone?* *Daddy going?*
+  2. `+ Wh-q` starts later. *Where Daddy going?*
+  3. `+ aux` *Where Daddy is going?*
+  4. `+ mov` *Where is Daddy going?*
+
+###### Acquisition of Negation
+
+- They appear around two-years of age. First they acquire the semantics of it, but the structure (regular syntactic negation) comes later.
