@@ -1,5 +1,3 @@
-
-
 ### Language Maintenance and Shift
 
 - Bilingualism is always a necessary precursor of language shift.
@@ -513,3 +511,17 @@ We should keep in mind that there is a large amount of individual variation.
 ###### Acquisition of Negation
 
 - They appear around two-years of age. First they acquire the semantics of it, but the structure (regular syntactic negation) comes later.
+
+---
+
+### Review
+
+**Declaration**:  *You are hereby bla bla.*
+
+**Directives**: *Please return this file to your boss.*
+
+**Expressive**: *I think bla bla*.
+
+**Representatives**: *The capital of Australia is Canberra.*
+
+**Commissives**: *I promise I will bla bla.*
