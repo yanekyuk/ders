@@ -500,6 +500,8 @@ We should keep in mind that there is a large amount of individual variation.
 
 - **Underextension**, which is roughly the opposite of overextension, occurs when a child acquires a word for a particular thing and fails to extend it to other objects in the same category, using the word in a highly restricted and individualistic way.
 
+##### Acquisition of Syntax
+
 ###### Acquisition of Questions
 
 - Questions involve movement in English. The order of acquisitions of questions:
