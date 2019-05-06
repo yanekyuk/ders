@@ -157,3 +157,15 @@
 - The Negro Speaks of Rivers, Langston Hughes
 - The River Merchant's Wife: A Letter, Li Bai, Ezra Pound
   - The example for poetic voice
+
+
+
+### Death and the Maiden
+
+`Chile, Pinochet, Exile, US intervention`
+
+**Ariel Dorfman** (1942-) was born in Argentine and lived in Chile then was sent into exile.
+
+In 1970, Salvador Allende, was the first socialist president elected in Western Hemisphere under *Unidad Popular* which was a coalition of six socialist parties. US tried to overthrow him, because of the negotiations with Cuba which was embargoed by the US. As a consequence, in 1973, Pinochet gets to control the country, via a military coup in which Allende dies along with many Chileans. During the coup, Paulina is tortured. 
+
+Does the play make audience side with Pauline?

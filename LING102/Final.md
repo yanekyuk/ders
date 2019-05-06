@@ -212,6 +212,29 @@ Children with **SLI** (*specific language impairment*):
 Examples: Christopher (IQ 60-70) but can learn languages very easily.
 ```
 
-#### Language Autonomy
+#### Critical Age Hypothesis
 
-No connection between general cognition and language ability.
+Even though language is mostly located in left hemisphere, the right parts of the brain can take over if there is a lesion on the left side. This is an example of plasticity of the brain. If the damage happens in the adulthood, the language is lost, and the right part can not take over the language.
+
+Under normal conditions, each child is primed to learn language if exposed to language. Children acquire their language (at least one as native), if only they are exposed to language before puberty which is the window of opportunity. *i.e.*  She learned quite a large vocabulary, however she was not able to use syntax although her intelligence level was normal. With the brain imaging techniques, it could be seen that she was using right hemisphere using the right hemisphere (like learning a new melody instead of a language). 
+
+#### Language Disorders
+
+##### Stuttering
+
+It is more about speech production (**speech disorder**) and it is very common. Approx. 20% of children have some form of stuttering (mostly boys). The children with stuttering usually get better. It might be something biological, psychological, psychosocial etc. with no consensus. Stuttering might cause some social distress, but it doesn't have much of a negative effect.
+
+##### Dyslexia
+
+It is basically a **reading disorder**. Some examples can be: saying `dill` instead of `pill`. Typically changing the phones of words. It is related to how and where one stores the words and retrieve them. There are three types of dyslexia:
+
+1. Phonological Dyslexia: Changing the order.  `dokuz buçuk` to `dozuk bukuç`. 
+2. Deep Dyslexia: Changing the word relating to semantics. `forest` to `trees`, `flower` to `blom`
+3. Surface Dyslexia: …
+
+##### Slips of the Tongue
+
+It is about retrieval, during which we tend to think ahead or perform slight misplacements.
+
+`You missed all of my history lectures` to `You hissed all my mystery lectures`
+
