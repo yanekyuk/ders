@@ -238,3 +238,74 @@ It is about retrieval, during which we tend to think ahead or perform slight mis
 
 `You missed all of my history lectures` to `You hissed all my mystery lectures`
 
+### Natural Language Processing
+
+Computational linguistics consists of:
+
+- Speech recognition
+  - is not understanding of language. Understanding language requires contextual information.
+  - is based on probabilistic meanings.
+- Speech production
+
+It has problems:
+
+- "fruit flies like a banana" can be `NP`, `NP` + `VP` 
+
+One use would be "Corpus Linguistics":
+
+- Through it, we are able to see the patterns that provide a lot of insight.
+- In which, we look at frequency, collocations and cooccurence.
+
+---
+
+----
+
+----
+
+**Basic concepts expected to know:**
+
+- Phonological processes
+  - Assimilation (making two sounds more similar), metathesis (changing the order of sounds), dissimilation (making two sounds less similar)
+  - Both synchronically and dichronically same changes happen, therefore it is not random, it is rule-governed and systematic. 
+- Historical Linguistics: language change through time
+  - in terms of sounds / phonology, morphology, word order, semantic, and lexicon
+    - Great Vowel Shift: it's the change of the whole sound system.
+    - Relation between case morphology and word order. If a language has an elaborate case system, then those language are likely to have a flexible word order. Because of theta roles.
+  - Use of genetically related languages to reconstruct loss languages with application of plausibility, majority to cognates such as numbers, family member names (father, mother) *There will be reconstruction question in final. Predicting sound change.*
+
+- Language Contact: lingua franca, pidgins, creoles
+  - Language Shift: language loses it's domains one by one to be completely lost to dominant language. *There will be question about that, I think*
+  - Language Death: It happens when the last speaker of a language dies. 
+- Multilingualism: How speakers have command on more than one language. The factors in effect?
+  - Dioglosia: Using different languages in different contexts, situations, and domains.
+  - Code-Switching: Changing the language without being ungrammatical.
+
+- Language Change in social perspective:
+
+  - in terms of ethnicity, income, gender, age, or class or simply SES (socio-economical status)
+  - Some of the variants has more prestige and considered to be the standard form. It's the language of the powerful group.
+    - This is not the case all the time. Sometimes non-standard form can gain prestige (covert prestige)
+    - They can be lexical items, phonemes, syntactic variations.
+    - *What is prestige? What is stigma?  What is linguistic variable? How do we work on them?*
+
+  - Hypercorrection, cross-over effect are quite related, we have seen them in many projects, upper-middle class, lower-middle are the most mobile groups in terms of social mobility, they do more hypercorrection.
+  - Regarding gender, binary of women's and men's language, dominance approach, difference approach, and some basic findings of researched in that area.
+
+- Face: is our temporary social identity in conversation. Our intorlocutors have the same. *How does the concept of face work? How do we do that face work? Politeness strategies?*
+
+  - In terms of speech acts.
+  - Deixis, anaphora
+  - Social aspect of language use
+
+- Biological: language acquisition
+
+  - Development of language: three diffrent approaches
+    - Behaviourism :crossed_swords: Poverty of stimulus
+    - Innatism :crossed_swords: Child Directed Speech
+    - Behaviorism
+  - The Brain: how do we observe speech?
+    - Broca's and Wernicke's area
+    - Disorders: are important because they tell us what is going on inside the brain
+  - Typical acquisition of language and atypical one
+
+- Computational Linguistics: how computers imitate our brains
