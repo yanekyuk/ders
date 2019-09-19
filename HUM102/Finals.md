@@ -47,7 +47,17 @@ Discriminitaion: du Bois, Woolf, Capildeo, Levi
 
 ---
 
+## Lectures
+
+#### Karl Marx, Friedrich Engels: *Manifesto of the Communist Party*
+
+`Rousseau + Smith + Hegel - Kant = Marx`
+
+> The genius of Marx consists precisely in his having furnished answers to questions already raised by the foremost minds of mankind. His doctrine emerged as the direct and immediate *continuation* of the teachings of the greatest representatives of philosophy, political economy and socialism. It is the legitimate successor to the best that man produced in the nineteenth century, as represented by German philosophy, English political economy and French socialism. 
+
 ## Texts
+
+`struggle, inequality, dependency, emancipation`
 
 <iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=252594" frameborder="0" allowfullscreen></iframe>
 
@@ -57,16 +67,28 @@ Discriminitaion: du Bois, Woolf, Capildeo, Levi
 bourgeoisie, proleteriat, alienation, labour, capital, production, industry, unions, class consciousness, revolution, globalization
 ```
 
-**Progress, Revolution**: In the continuum of progress, there is always going to be a point of revolution because of the requirement of exponential growth . Progress is inevitable. For Marx, time line of progress consists of four stages that "each time ended either in a revolutionary reconstitution of society at large, or in th common ruin of the contending classes": 
+**Political, Philosophical, Economical, and Social**: Marx and Engels' work utilizes all of them contrary to the thinkers before them. `Rousseau + Smith + Hegel - Kant = Marx`
+
+**Class Struggle**: Proletariat is oppressed by the bourgeoisie. Even if the technology advanced, it will be the Bourgeoisie who would profit from it. 
+
+**Materialism**: "The philosophy of Marxism is materialism. Throughout the modern history of Europe, and especially at the end of the eighteenth century in France, where a resolute struggle was conducted against every kind of medieval rubbish, against serfdom in institutions and ideas, materialism has proved to be the only philosophy that is consistent, true to all the teachings of natural science and hostile to superstition, cant and so forth." Lenin
+
+**Progress, Revolution**: In the continuum of progress, there is always going to be a point of revolution because of the requirement of exponential growth. Progress is inevitable. For Marx, time line of progress consists of four stages that "each time ended either in a revolutionary reconstitution of society at large, or in th common ruin of the contending classes:"
 
 1. Tribal Communes: starting with settlements. These starting times are not explained thoroughly by Marx but through the passage from these times to the feudal time the roman society is explained to show the existence of social classes all through the history of humankind.
-2. Feudal Societies: starting with agricultural revolution. Burghers as the not so influential bourgeoisie of the time
+2. Feudal Societies: starting with agricultural revolution. Burghers as the not so influential bourgeoisie of the time.
 3. Bourgeoisie: starting with industrial revolution, colonization and free-trade. Bourgeoisie as a revolutionary class.
 4. Proletariat: going to start with proletariat revolution. First, they need to gain class consciousness by forming unions and using mass communication that is now available.
 
-**Alienation**: Bourgeoisie owns the capital (means of production), which with the labour can turn into value and then profit. But the labour is the proletariat and it's not the one who gets to profit. The proletariat is alienated from the value of his labour.
+> In one word, it creates a world after its own image. The bourgeoisie has subjected the country to the rule of the towns. It has created enormous cities, has greatly increased the urban population as compared with the rural, and has thus rescued a considerable part of the population from the idiocy of rural life, Just as it has made the country dependent on the towns, so it has made barbarian and semi-barbarian countries dependent on the civilized ones, nations of peasants on nations of bourgeois, the East on the West
+
+**Alienation**: Bourgeoisie owns the capital (means of production), which with the labour can turn into value and then profit. But the labour is the proletariat and it's not the one who gets to profit. The proletariat is alienated from the value of his labour. Loss of individuality through extensive use of machinery. The labourers are an appendage to the machine.
+
+> The advance of industry, whose involuntary promoter is the bourgeoisie, replaces the isolation of the labourers, due to competition, by their revolutionary combination, due to association. The development of Modern Industry, therefore, cuts from under its feet the very foundation on which the bourgeoisie produces and appropriates products. What the bourgeoisie, therefore, produces, above all, is its own grave-diggers. Its fall and the victory of the proletariat are equally inevitable. 
 
 **Globalization**: "The need of a constantly expanding market for its products chases the bourgeoisie over the whole surface of the globe. It must enable nestle everywhere, settle everywhere, establish connections everywhere."
+
+
 
 #### "The Origin of Species", Darwin, 1859
 
@@ -76,14 +98,16 @@ natural selection, variation, artifical selection, struggle for life, exponentia
 
 **Progress, Natural Selection**: The fittest get to live and those who get to live breed and those who get to breed make up the population which requires more resource. When resources are not enough, progress is halted. The survivors' variations pass to the next generation.
 
-**Non-anthropocentrism**: The Origin of Species diminishes the sets a framework to explain nature and natural life which we as humans are part of. 
+**Man and the Universe**: The Origin of Species presents a perspective to study nature as a positive science. Also, the humankind is decentralized.
 
-**Social Darwinism**: The idea of natural selection then was modified to humans as artificial selection in which people sought to improve human race by eliminating the so-called the inferior (eugenics, Nazis)
+**Social Darwinism**: `Scientific Racism` The idea of natural selection then was modified to humans as artificial selection in which people sought to improve human race by eliminating the so-called the inferior (eugenics, Nazis)
+
+**Argument Style**: Variation under domestication, nature. He observes and then he support his argument with material proofs. *i.e.* the pidgeons
 
 #### "The Souls of Black Folk", Du Bois, 1903
 
 ```
-emancipation, slavery, double consciousness, veil, race consciousness, segregation, color line, being a problem, strife
+emancipation, slavery, double consciousness, veil, race consciousness, segregation, color line, being a problem, strife, dark host, black host
 ```
 
 **Emancipation**: from slavery didn't solve the the African-Americans' problems. They're still discriminated against. Du Bois argues that to emancipate themselves from this discrimination, they have accept their double consciousness of being American and Black at the same time.
@@ -155,6 +179,8 @@ Auschwitz, dehumanization, salvation, perdutition, Mussellman, Nazi, selfishness
 anthropocene, peak oil, holocene, earth system, planetary stewardship, climate change
 ```
 
+**Literary Genre**: Article
+
 **Marx**: He argued that need of constant growth in capitalist economy would bring about its end, and then a revolution. But this catastrophe now surfaces as climate change which is not economical but environmental. Yet both of the texts argued that its not possible to grow together.
 
 **Darwin**: There is similarity in Darwin's idea of exponential growth's eventual stop due to lack of resources to the article's take on exponential growth. He couldn't foresee the devastation of nature as a cause of extinction for humans.
@@ -162,6 +188,8 @@ anthropocene, peak oil, holocene, earth system, planetary stewardship, climate c
 **Men vs. Nature**: 
 
 #### "Home", Shire, 2014
+
+**Literary Genre**: Poem
 
 ```
 refugee, fear, boats, belonging, go home, survival
@@ -171,12 +199,30 @@ refugee, fear, boats, belonging, go home, survival
 
 #### "Kissing in Vietnamese", Vuong, 2014
 
+```
+
+```
+
+**Literary Genre**: Poem
+
 **Shire**: In Shire's poem Home, home is physical place, whereas Vuong talks about home as lost memories and nostalgia. Yet these memories are disturbing. 
 
 #### "Five Measures of Expatriation", Capildeo, 2016
 
 ```
-
+language, Trinidad, expatriate, exile, migrant, refugee, fan museum, 
 ```
 
 Through expatriation, you get to keep your identity to yourself.
+
+**Literary Genre**: Prose
+
+**Home**:
+
+---
+
+### Essay Ideas
+
+#### Struggle
+
+##### 

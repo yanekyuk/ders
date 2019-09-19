@@ -31,7 +31,7 @@
 
 #### Language Loss and Death
 
-- When all the Turkish migrants in the US shift to English in a few generations, that means the loss of Turkish for them. But it's not the death of Turkish.It will still be spoken in Turkey.
+- When all the Turkish migrants in the US shift to English in a few generations, that means the loss of Turkish for them. But it's not the death of Turkish. It will still be spoken in Turkey.
 - When Tevfik Esenç dies in 1992, however the Caucasian language Ubykh died with him. He was the last speaker of that language.
 - Dozens of Aboriginal languages spoken in Australia are dead now because their speakers were massacred by the Europeans and died by diseases they brought.
 
@@ -107,7 +107,7 @@ In Gender Preferential Variation:
 #### Gender
 
 - When people self-report:
-  - women over-reported their use of standard forms. That shows us that they prefer standard form for prestige. 
+  - women over-reported their use of standard forms. That shows us that they prefer standard form for prestige which is called **overt prestige**. 
   - men under-reported their use of standard forms. The prestige of standard form is not that great for men. So, the non-standard form has **covert prestige** for men speakers.
 
 - Explanations of women's linguistics behavior
@@ -238,8 +238,7 @@ In Gender Preferential Variation:
   - Temporal deixis :arrow_right: now, then, last week
 - Tu / Vous (*fr.* for sen / siz) is a cultural phenomenon.
 - **Reference** is an act by which a speaker (or writer) uses language to enable a listener or reader to identify something.
-
-  - Words don't refer, speakers refer. *Mary always wanted to buy **a red sports car**, but she bought **a metallic gray minivan***. The ones in bold are grammatically very similar but the former lacks reference, whereas the latter has the reference. The minivan is the one became the reality.
+- Words don't refer, speakers refer. *Mary always wanted to buy **a red sports car**, but she bought **a metallic gray minivan***. The ones in bold are grammatically very similar but the former lacks reference, whereas the latter has the reference. The minivan is the one became the reality.
   - *The present king of France* makes **sense** but there is **no reference**. There's no king anymore.
 - **Inference** is the listener's ability to recognize what we mean, rather that their dictionary knowledge of a word we use. *Can I look at your Chomsky?* **Chomsky** can be inferred as **a book by Chomsky**.
 - **Anaphora** is the subsequent mentions of a referent. *We saw a funny video about **a boy** (antecedent) washing **a puppy** (antecedent) in a small bath. **The puppy** (anaphora) started struggling and shaking and **the boy** (anaphora) got really wet. When **he** (anaphora) let go, **it** (anaphora) jumped out of the bath and ran away.*

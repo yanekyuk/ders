@@ -1,3 +1,8 @@
+#### Bilingualism
+
+- Learning two languages to the extent that one can use it in different situations and social domains
+- A bilingual is not two monolinguals living in one body. Each language influences the other.
+
 #### Atypical Language Development
 
 - Bilingual, deaf, down syndrome, autistic spectrum disorder are examples of atypical language development.
@@ -14,14 +19,16 @@
   - **Receptive bilinguals** would be those who say that they understand but cannot speak a language. Typically observed in 3rd generation migrates or oppressed languages.
   - **Heritage language learners** are the ones who don't have complete command of ancestor language. They may be speaking it but not be able to write it. They may know how to speak casual but not formal. *i.e.* Half-Turkish students studying in Turkish courses, who are not able to speak formally but perfectly casually or not able to write essays.
 - There are no strict boundaries between these types. They're all relative to the context. There are no comprehensive accurate descriptions. However:
+  - Advantages:
+    - Code switching is common among bilinguals but it is not a deficit; it's a linguistic strategy.
+    - They may have smaller vocabulary in each language at first but the total number uqals monolinguals.
+    - We know that people who are bilinguals are cognitively in advantageous position. They are:
+      - **Better metalinguistic awareness**:
+      - **Higher control over attentional processes**:
+      - **Stronger abstract reasoning skills**
+      - **Capable of divergent thinking**
   - Disadvantages: 
     - Bilinguals know less words then monolinguals. But actually, they know pretty much same number of words in different languages.
-    - Code-switching is not a deficit. It is a linguistic strategy.
-  - We know that people who are bilinguals are cognitively in advantageous position. They are:
-    - **Better metalinguistic awareness**:
-    - **Higher control over attentional processes**:
-    - **Stronger abstract reasoning skills**
-    - **Capable of divergent thinking**
 
 ##### Deaf Language Acquisition
 
