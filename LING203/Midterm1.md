@@ -447,6 +447,65 @@ In none of these sentences can the second NP be bound by a c-commanding word. Th
 
 ### Introduction
 
+X-bar theory is for fixing the inadequacies of our current sentence structure that has been able to account for the structural restrictions on the interpretation of pronouns, anaphors, and R-expressions. So, instead of a *flat structure*, X-bar theory makes use of *binary structure*, and by doing that it explains the constituency of hierarchically same-level parts of a sentence. To cut a long story short, it helps *one-replacement* test work.
+
+### Bar-Level Projections
+
+```
+ Specifier:	XP → (YP) X’
+   Adjunct:	X’ → (ZP) X' or X' (ZP)
+Complement:	X' → X (WP)
+```
+
+As it is seen in the *specifier, adjunct* and *complement* rules, the intermediate *X’* (x-bar) is the defining characteristics of the x-bar theory. 
+
+**One-replacement**: Replace an N’ node with *one*.
+
+One of the striking properties of x-bar theory is that the intermediate level ( *X’* ) is **recursive** meaning that it can generate itself by itself, thus accounting for the infinite property of language. Along, with that, *the binary branching* provides more definite structure. 
+
+X-bar theory applies to all the phrasal items. There are N-bars, V-bar, Adv-bars, Adj-bars, and P-bars too.
+
+### Generalizing the Rules: The X-Bar Schema
+
+**Headedness**: It seems that all phrases have *heads* such as *X* in an *XP*. Although there are cases of phrases with no apparent heads, when they have to have a head, it’s called **endocentricity**. 
+
+If we need to KISS (keep it simple, stupid), then instead of prodiving every rule of every phrase, would generalize the rules a little bit and come up with these rules:
+
+1. XP → (YP) X’
+2. X’ → (ZP) X’ *or* X’ (ZP)
+3. X’ → X (WP)
+
+These are called *complements, adjuncts* and *specifiers*.
+
+### Complements, Adjuncts, and Specifiers
+
+```
+Phrase Level:		XP → (YP) X’
+Intermediate Level:	X’ → (ZP) X' or X' (ZP)
+Head Level:			X' → X (WP)
+```
+
+**Complement**: An XP that is a sister to a head and a daughter of a single bar level.
+
+**Adjunct**: An Xp that is a sister to a single bar level and a daughter of a single bar level.
+
+#### Complements and Adjuncts in NPs
+
+Consider the following NPs;
+
+> the book of poems
+> the book with red cover
+
+In these examples *of poems* is a complement whereas *with red cover* is an adjunct although they seem parallel. Now consider this:
+
+> the book of poems with red cover
+> *the book with red cover of poems
+
+When they are combined, *of poems* seems to resist to stay in complement position. This can be explained intuitively by saying that the first PP’s role is stating the type of the object, whereas the second one is more loosely connected and seems optional. If you’re not happy with this so-called intuitive explanation (as I am not) then consider the evidence that is more syntactic and structural (the one with the combination). Another evidence for this comes from the recursive property of adjuncts. Consider the following sentences:
+
+> the book with red cover on the table
+> *the book of poems of Scientology (second PP does not attach to *the book*, but to *poems*)
+
 
 
 ## Extending X-bar Theory to Functional Categories
