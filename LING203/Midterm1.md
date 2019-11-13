@@ -401,6 +401,8 @@ NP5-->N5["N<br>herself"]
 
 ### Locality Conditions on the Binding of Anaphors
 
+*Binds*: A binds B if and only if A c-commands B and A and B are coindexed.
+
 Consider this:
 
 > *Heidi<sub>i</sub> said that herself<sub>i</sub> discoed with Art.
@@ -408,7 +410,7 @@ Consider this:
 
 The anaphor (herself) is bound by an antecedent (Heidi), yet the sentence is ungrammatical. **Locality constraint** is what makes this sentence ungrammatical. It’s the need of the anaphor *to be bound in the same clause*. The syntactic space inwhich an anaphor must find its antecedent is called a *binding domain*. 
 
-*Binding domain*: The clause containing the NP (anaphor, pronoun, or R-expression).
+*Binding domain*: The minimal clause containing the NP (anaphor, pronoun, or R-expression).
 
 *Binding Principle A*: An anaphor must be bound in its binding domain.
 
@@ -679,7 +681,61 @@ In Irish example, we see that even when there is no movement involved, there is 
 
 ### Tense Phrases (TP)
 
+So far, we put auxiliaries in tense position. The question here is whether T exists in every case just like CPs.
 
+> The roadrunner walks funny.
+>
+> The roadrunner is walking funny.
+>
+> *The roadrunner is walks / walkings funny.
+
+Tense inflection and auxiliaries are in complementary distribution, meaning that they share the same position in the structure. Also, recall that when two elements are in complementary position, they can be coordinated.
+
+> I kissed the toad and must go wash my mouth now
+
+If Ts exist in all sentences, then we have to account for these two theories: **affix lowering** and **selectional analysis**.
+
+![Affix Lowering](/home/yanekyuksel/BOUN/Notes/LING203/src/affixlowerinf.png)
+
+**Affix Lowering**: Affix is inserted into T position and then lowered to attach to the verb. (Requires an arrow)
+
+![Selectional Analysis](/home/yanekyuksel/BOUN/Notes/LING203/src/selectionalanalysis.png)
+
+**Selectional Analysis**: It takes two ∅ (null) tense markers and affixes are generated in V. i.e. ∅<sub>[PRESENT]</sub> ∅<sub>[PAST] </sub> 
 
 ## Constraining X-bar: Theta Theory
 
+**Thematic Relations**: *agent, experiencer, theme, goal, recipient, source, location, instrument, beneficiary*
+
+**Theta grid**: *John<sub>i</sub> placed [the flute]<sub>j</sub> [on the table]<sub>k</sub>*
+
+| place | Source / Agent | Theme | Goal |
+| ----- | -------------- | ----- | ---- |
+|       | DP             | DP    | PP   |
+|       | i              | j     | k    |
+
+**Theta Roles**: *external* and *internal theta roles*
+
+**Theta criterion**: 
+
+a. Each argument is assigned one and only one theta role
+
+b. Each theta role is assigned to one and only one argument
+
+**Expletive pronouns**: *It* rained.
+
+**Extended Projection Principle**: All clauses must have subjects and lexical information is expressed at all levels.
+
+**Expletive Insertion Rule**: Insert an expletive pronoun into the specifier of TP when no subject is there.
+
+```
+The Lexicon		→ 	The Computational Component
+(Theta Grids) 			1.X-Bar Rules
+						2.Theta Criterion
+						3.Expletive Inserton Rule
+						4.Extended projection principle
+						
+						5.Grammaticality Judgements
+```
+
+Theta theory is required for X-bar to work because X-bar theory over-generates (even ungrammatical sentences) while providing important facts about constituency and cross-categorial generalizations.
