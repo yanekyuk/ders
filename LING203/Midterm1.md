@@ -509,18 +509,177 @@ When they are combined, *of poems* seems to resist to stay in complement positio
 >
 > *the book of poems of Scientology (second PP does not attach to *the book*, but to *poems*)
 
+Since only adjuncts are recursive and not complements, this ungrammaticality is predicted.
 
+Another way of prove this is the *one-replacement* test which is applied by “replacing an N’ node with *one*“.
+
+> the one / the one with red cover / the one on the table / the one with red cover on the table
+> *the one of poems / *the one of poems of Scientology
+
+If *of poems* were an adjunct, it would be a sister of an N’ which can be replaced by *one*. 
+
+Apart from PPs, other complements are DPs and CPs. 
+
+> I loved the policeman intensely with all my heart
+
+The direct object here is *the policeman* and thus it is the complement of *loved*. Consider these sentences:
+
+> *I loved intensely the policeman with all my heart
+>
+> *I loved the policeman the baker intensely.
+
+First sentence proves that *the policeman* has to be in the complement position, and the second one proves that it is not a product of a recursive rule.
+
+#### The Notion *Specifier*
+
+**Specifier**: An XP that is a sister to an X’ level, and a daughter of an XP.
+
+### Some Definitional Housekeeping
+
+We can refer all the elements in an XP as projections of X. For instance, in an NP; N is the head, N’ is the **intermediate projection** and NP is the **maximal projection**.
+
+**Principle of Modification**: If a YP modifies some head X, then YP must be dominated by a projection of X (i.e. X’ or XP).
+
+### Parameters of Word Order
+
+We stated that in English, the rules are as follows:
+
+```
+ Specifier Rule:	XP → (YP) X’
+   Adjunct Rule:	X’ → (ZP) X' or X' (ZP)
+Complement Rule:	X' → X (WP)
+```
+
+But this holds for English and there are a lot of languages for which we have to redefine our rules. For instance, in Turkish the word order is SOV, whereas in English it’s SVO. In order to account for all languages, we have to revise our rules:
+
+```
+ Specifier Rule:	XP → (YP) X’ or X' (YP)
+   Adjunct Rule:	X’ → (ZP) X' or X' (ZP)
+Complement Rule:	X' → X (WP) or (WP) X
+```
+
+Each part of *or*s act as *parameters* during language development. An English speaking child learns the left, a Turkish speaking child learns the right part of the *or*s.
 
 ## Extending X-bar Theory to Functional Categories
 
+### Introduction
+
+This is where we have to redefine the determiner phrases. If we put determiners in specifier positions of NPs, we’ll have big problem in our hands. Apart from that, we will introduce tense phrases (TP) and complementizer phrases (CP). 
+
+### Determiner Phrases (DP)
+
+> All non-head material must be phrasal
+
+This is one of the basic principles underlying X-bar theory. The putting *the, these, that, a, an* in a specifier position of an NP violates this principle. So, implementing this idea of putting NPs inside of DPs are theoretically but not empirically required. This is for the sake of the elegance of the theory and not for the sake of any data, and it’s generally better from a mathematical point of view. 
+
+*All non-head material must be phrasal* means that we cannot just insert a *D* under *NP*. It has to be phrasal, and if we make it phrasal (*DP*) then we assume that it goes like this: NP–>DP–>D’–>D. Focus on the *D’* there and tell whether it is a constituent or not. 
+
+Apart from that, we also have to account for *genitives* such as **’s-genitive**:
+
+> The coat of the panther
+>
+> The panther’s coat 
+>
+> *The panther’s the coat
+
+![of-genitive](/home/yanekyuksel/BOUN/Notes/LING203/src/of-genitive.png)
+
+As it can be seen, *‘s* is in complementary distribution with *the*, meaning it cannot co-occur with a determiner. This can be explained by saying that *‘s* itself is a determiner head. It also attaches to NP rather than a N-head.
+
+> The man standing over there’s hat
+>
+> *The man’s standing over there hat
+
+All these sign that *‘s-genitive* is not a morpheme but a small word indicating possession.
+
+### A Descriptive Tangent into Clause Types
+
+A **clause** is a **subject** along with a **predicate phrase**.
+
+> *A boy* **ran**. *i* subject **b** predicate
+
+A clause that stands on its own is called a **root**, **matrix** or **main** clause. Sometimes, we can find clauses inside clauses. These are called **embedded clauses**. Embedded clauses are also called **subordinate clauses**. 
+
+> [<sub>MAIN CLAUSE</sub> Peter said [<sub>EMBEDDED CLAUSE</sub> that Danny danced]]
+
+Along with these distinctions, we can also distinguish embedded clauses by their structural position into **complement, adjunct** and **specifier clauses**.
+
+> Heidi said [that Art loves peanut butter] (complement clause)
+>
+> The man [I saw get into the cab] robbed the bank (adjunct clause)
+>
+> [People selling their stocks] cause the crash of 1929 (specifier clause)
+
+Each of these subcategories of embedded clauses also sepetate into two by their **tensedness**. These are called **finite** and **non-finite**. 
+
+> I said [that Mary signed my yearbook] (finite)
+>
+> I want [Mary to sign my yearbook] (non-finite)
+
+Sometimes finding out whether a clause is finite or not is not as easy as in the previous example’s situation.
+
+> I know [you eat asparagus]
+>
+> I’ve never seen [you eat asparagus]
+
+One way to tell if a clause is finite or not is to look for agreement and tense morphology on the verb.
+
+> I know [you ate asparagus] (finite)
+>
+> I know [he eats asparagus]
+>
+> *I’ve never seen [you ate asparagus] (non-finite)
+>
+> *I’ve never seen [him eat<u>s</u> asparagus]
+
+As it can be seen when we replaced *you* with *he*, in the non-finite example *he* lost its nominative property and became an accusative. This is also a good sign of whether a clause is finite or not.
+
+Another way to solve it is called **standalone test**:
+
+> You ate asparagus
+> *Him eats asparagus
+
+Non-finite clauses cannot stand alone as a sentence.
+
+To summarize:
+
+1. If the verb of an embedded clause bear tense or person agreements, then it is finite
+2. If the subject of an embedded clause is in nominative case, then it is finite
+3. If the embedded clause itself can stand alone as a root clause, then it is finite
+
+### Complementizer Phrases (CP)
+
+Remember when we said that “the head is always obligarory” in X-bar theory. This is where CP and TP stand out because they can have empty heads. 
+
+![cp](/home/yanekyuksel/BOUN/Notes/LING203/src/cp.png)
+
+> John thinks that the asparagus is yummy
+>
+> John thinks the asparagus is yummy (empty C-head)
+>
+> *That the asparagus is yummy (non-empy C in a root clause)
+
+Big question here is whether CPs exist in all clauses or only in embedded clauses. At first, it seems obvious that it exists only in embedded clauses. But regarding the second example where C-head is empty and it’s grammatical, and also by the fact that it is going to be really handy when we deal with *wh-movements*, it makes sense to say that even in root clauses there exists a CP.
+
+> [<sub>CP</sub> [<sub>C’</sub> [<sub>C </sub>∅] [<sub>TP</sub> Asparagus grows in California]]]
+
+The best example to prove this idea for English is **yes/no questions**.
+
+> John have left		[<sub>CP</sub> [<sub>C’</sub> [<sub>C </sub>∅] [<sub>TP</sub> Asparagus grows in California]]]
+>
+> 
+>
+> Have John left?		[<sub>CP</sub> [<sub>C’</sub> [<sub>C </sub>Have] [<sub>TP</sub> John left]]]
+
+But also consider this Irish example:
+
+> Ar thit Sean?<br>Q  fall  John<br>*Did John fall?*         [<sub>CP</sub> [<sub>C’</sub> [<sub>C </sub>∅ [+Q]] [<sub>TP</sub> thit Sean]]]
+
+In Irish example, we see that even when there is no movement involved, there is a particle that is inserted to complementizer-head position to form a question.
+
+### Tense Phrases (TP)
+
+
+
 ## Constraining X-bar: Theta Theory
 
-## Auxiliaries and Functional Categories
-
-## Head-to-Head Movement
-
-## DP Movement
-
-## Raising, Control & Empty Categories
-
-## Polysynthesis, Incorporation, and Non-Configurationality
