@@ -494,16 +494,19 @@ Head Level:			X' → X (WP)
 Consider the following NPs;
 
 > the book of poems
+>
 > the book with red cover
 
 In these examples *of poems* is a complement whereas *with red cover* is an adjunct although they seem parallel. Now consider this:
 
 > the book of poems with red cover
+>
 > *the book with red cover of poems
 
 When they are combined, *of poems* seems to resist to stay in complement position. This can be explained intuitively by saying that the first PP’s role is stating the type of the object, whereas the second one is more loosely connected and seems optional. If you’re not happy with this so-called intuitive explanation (as I am not) then consider the evidence that is more syntactic and structural (the one with the combination). Another evidence for this comes from the recursive property of adjuncts. Consider the following sentences:
 
 > the book with red cover on the table
+>
 > *the book of poems of Scientology (second PP does not attach to *the book*, but to *poems*)
 
 
