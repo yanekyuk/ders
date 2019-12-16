@@ -23,3 +23,16 @@
 - If a rule is neutralizing, by definition some word forms will be ambigous with respect to the nature of at least one of its phonemes, as the neutralizing environment is present in them.
 - This may be true even of roots in isolation
 - In Russian [urok] ‘lesson’ and [vrak] ‘enemy’ end with the same phone [k]. However, since Russian devoices word-final consonants,we cannot know if [k] realizes the same phoneme it both cases. Indeed, the genitive singular form of [urok] is [uroka], while the genitive singular form of [vrak] is [vraga]. Therefore /urok/ and /vrag/.
+
+---
+
+**Anterior**: *…*
+
+**Coronal** (-cor, +cor): *dentals, alveolar*
+
+**Continuants**: *trills, fricatives, lateral fricatives, approximants, lateral approximants, vowels*
+
+**Occlusives**: *stops, affricates, nasals*
+
+**Sonorants** (-son) : *vowels, nasals, approximant*
+
