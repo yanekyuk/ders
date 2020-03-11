@@ -675,7 +675,11 @@ The best example to prove this idea for English is **yes/no questions**.
 
 But also consider this Irish example:
 
-> Ar thit Sean?<br>Q  fall  John<br>*Did John fall?*         [<sub>CP</sub> [<sub>C’</sub> [<sub>C </sub>∅ [+Q]] [<sub>TP</sub> thit Sean]]]
+> John thinks that the asparagus is yummy
+>
+> John thinks the asparagus is yummy (empty C-head)
+>
+> *That the asparagus is yummy (non-empy C in a root clause)Ar thit Sean?<br>Q  fall  John<br>*Did John fall?*         [<sub>CP</sub> [<sub>C’</sub> [<sub>C </sub>∅ [+Q]] [<sub>TP</sub> thit Sean]]]
 
 In Irish example, we see that even when there is no movement involved, there is a particle that is inserted to complementizer-head position to form a question.
 

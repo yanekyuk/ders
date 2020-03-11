@@ -188,5 +188,20 @@ So, the intended denotation is: 〚dog〛∩ C (context)
 
 So, 〚the A〛 presupposes that |〚A〛∩ C |= 1
 
+#### Sense and Reference
 
+Sense can refer to different entities in different worlds
+
+> *The dog which lives in Paula’s house* can refer to Shelby or Hannibal
+
+Reference’s meaning doesn’t change based on state.
+
+> *The dog* can only refer to one specific dog
+
+Proper names are same in every world, they only have referents. (Rigid Designators)
+
+Definites can pick different referents in different worlds, because they have a sense.
+
+**Informative / Can be wrong** *The president of US is Trump*
+**Tautology** *Trump is Trump*
 
