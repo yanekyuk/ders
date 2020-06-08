@@ -2,14 +2,14 @@
 
 #### Summary
 
-Language development is a multidisciplinary field that has as its central question, how is language acquired? Because  language is highly complex  yet  universally acquired, the answer to this question has profound implications for understanding the essential nature of the human mind. Because language is a vehicle for social interaction and acquired in a social context, the answer to this question may also reveal how development is sup-ported and shaped by the social environment. The study of language development also has practical importancefor education, for the treatment of communicative disorders, and for second language instruction.
+Language development is a multidisciplinary field that has as its central question, how is language acquired? Because  language is highly complex  yet universally acquired, the answer to this question has profound implications for understanding the essential nature of the human mind. Because language is a vehicle for social interaction and acquired in a social context, the answer to this question may also reveal how development is supported and shaped by the social environment. The study of language development also has practical importance for education, for the treatment of communicative disorders, and for second language instruction.
 
-Acquiring a language includes learning the sounds and sound patterns of the language (phonological development), learning the vocabulary of the language (lexical development), learning the structure of the language (grammatical, or morphosyntactic, development), and learning how to use language to communicate (pragmatic and sociolinguistic development). The study of language development has a long history because questions about how children’s language emerges have long been considered central to larger philosophical and scientific debates. These debates have concerned the intrinsic nature of humankind and the role of experience inshaping human nature. The modern study of language development began in the 1960s following the Chomskyan revolution inlinguistics. Chomsky argued that the study of language is the study of the mind. In turn, the study of language development captured the interest of researchers interested in the study of the developing mind. Language development is a field divided along several fault lines. Some major points of disagreement are 
+Acquiring a language includes learning the sounds and sound patterns of the language (phonological development), learning the vocabulary of the language (lexical development), learning the structure of the language (grammatical, or morphosyntactic, development), and learning how to use language to communicate (pragmatic and sociolinguistic development). The study of language development has a long history because questions about how children’s language emerges have long been considered central to larger philosophical and scientific debates. These debates have concerned the intrinsic nature of humankind and the role of experience in shaping human nature. The modern study of language development began in the 1960s following the Chomskyan revolution in linguistics. Chomsky argued that the study of language is the study of the mind. In turn, the study of language development captured the interest of researchers interested in the study of the developing mind. Language development is a field divided along several fault lines. Some major points of disagreement are 
 
 1. whether language is largely innate in the child or learned from experience; 
 2. whether the knowledge that underlies children’s language ability is highly abstract or more like a memorized repertoire of constructions that serve communicative goals; 
-3. whether the mechanism that underlies language acquisition isspecific to language or consists of general purpose cognitive abilities applied to the task of learning language; and
-4. whether the communicative functions that language serves (for children and adults) account for language acquisition, contribute to the process ofacquisition, or are merely a benefit of language acqui-sition that must itself be explained in other terms. 
+3. whether the mechanism that underlies language acquisition is specific to language or consists of general purpose cognitive abilities applied to the task of learning language; and
+4. whether the communicative functions that language serves (for children and adults) account for language acquisition, contribute to the process of acquisition, or are merely a benefit of language acquisition that must itself be explained in other terms. 
 
 Child language researchers also debate whether the most useful approach to understanding language development is to focus on children and ask how they acquire language (the developmental approach) or to focus on language and ask how it is acquired by children (the learnability approach). Language development researchers use a variety of research methods and designs. Central to a great deal of research is the collection of speech samples from children for the purpose of characterizing the children’s productive language. Collecting speech samples involves recording children as they talk and transcribing and coding the recorded speech. Computer programs help in that process. For some purposes, researchers may not need to collect new speech samples if their question can be addressed by examining the speech samples contained in the CHILDES archive. For descriptive and assessment purposes, a variety of norm referenced tests and measures of language development are available. Because language development is a multidisciplinary field, articles and chapters on language development appear in widely diverse sources. Most of these are indexed in one of two computer-accessible databases: PsycINFO or Linguistics and Language Behavior Abstracts
 
@@ -37,7 +37,7 @@ Focuses *(i)* on the social aspects of interaction as the experience relevant to
 
 States that language acquisition is a product of problem-solving mechanism of mind and children solve it the same way that they solve any other problems.
 
-- Developmenta systems approach: Early developments and/or genetically based characteristics in one domain provide the foundation for subsequent developments in other domains.
+- Developmental systems approach: Early developments and/or genetically based characteristics in one domain provide the foundation for subsequent developments in other domains.
 - Dynamic systems theory: Language emerges as a result of the <u>continuous interaction of the components of the system and the environment</u>. Language abilities over developmental time and the moment-to-moment processes that occur as the child assembles words and longer utterances. <u>Transitory states</u>?
 
 #### Review
@@ -46,14 +46,14 @@ States that language acquisition is a product of problem-solving mechanism of mi
 
    > Cognitive science aims to understand how human mind works. Language, as a part of human mind, is an incredibly complex function of the mind which is acquired easily during childhood. How a language is acquired can be a leading answer to human mind and behavior. So, studies on language acquisition plays a large role on the debate over the characteristics of human cognition.
    >
-   > In applied fields, however, the immediate answers of the language development research are utilised in cases where a child having problem with language acquisition. In those cases, some practical findings regarding language development and acquisition can play a big role in the prevention and the treatment of language-based difficulties.
+   > In applied fields, however, the immediate answers of the language development research are utilized in cases where a child having problem with language acquisition. In those cases, some practical findings regarding language development and acquisition can play a big role in the prevention and the treatment of language-based difficulties.
 
 2. Learning a language involves learning in several separable domains. List and define the components of language knowledge.
 
    > **Pragmatics**: the transmittal of information to others in socially appropriate ways. Being able to make requests, to comment, to be coherent in conversation and narrative.
    >
    > - ~9m: Baby communicates with intention.
-   > - ~1.5y: Baby’s communicative purposes are more distinguishible.
+   > - ~1.5y: Baby’s communicative purposes are more distinguishable.
    > - ~2.5y: Child takes initiative in a conversation and acts responsively.
    > - ~3.5y: Child’s narrative skills develop.
    >
@@ -89,7 +89,7 @@ States that language acquisition is a product of problem-solving mechanism of mi
 5. Define and contrast nativism and empiricism as (a) explanations of the origin of knowledge and (b) as approaches to explaining language development.
 
    > *(a)* Empiricism is an experience-based knowledge approach, stating that knowledge is built from ground up by experience alone. Whereas nativism states that experience alone is not enough and some preexisting structure is required for knowledge.
-   > *(b)* The nativist view of language suggests that humans have an innate knowledge of properpies of language. Whereas the empirical view behaviourism suggests that language is acquired by repeating and seeking approval. The behaviorist view has not stood the test of time or empirical evidence. There is another empiricist view called interactionist view, but this is not completely empiricist because it utilisizes the innate properties too.
+   > *(b)* The nativist view of language suggests that humans have an innate knowledge of properties of language. Whereas the empirical view behaviorism suggests that language is acquired by repeating and seeking approval. The behaviorist view has not stood the test of time or empirical evidence. There is another empiricist view called interactionist view, but this is not completely empiricist because it utilizes the innate properties too.
 
 6. What makes interactionism a nativist approach?
 
@@ -97,7 +97,7 @@ States that language acquisition is a product of problem-solving mechanism of mi
 
 7. Why do generativists and usage-based theorists agree that there can be no compromise on the question of whether humans have innate linguistic knowledge?
 
-   > Because in either case, there is a universal languistic structure underlying the language acquisiton because every person has the same general cognitive processes which enables them to acquire the language.
+   > Because in either case, there is a universal linguistic structure underlying the language acquisition because every person has the same general cognitive processes which enables them to acquire the language.
 
 8. What can be learned from studying language development in other cultures and other language groups that cannot be learned from studying the acquisition of one language in one culture?
 
@@ -109,15 +109,15 @@ States that language acquisition is a product of problem-solving mechanism of mi
 
 ## Biological Bases of Language Development
 
-This chapter considered language development as abiological phenomenon. The reasons for characterizinglanguage development as a feature of human biologyand some of what we know about the biological basesof language development include the following:
+This chapter considered language development as  abiological phenomenon. The reasons for characterizing language development as a feature of human biology and some of what we know about the biological bases of language development include the following:
 
-1. Language is a universal characteristic of the humanspecies. Not only do all human societies have lan-guage, but in situations where there is no targetlanguage to learn, humans in interaction willspontaneously create language.
-2. The capacity for language is served by physicalstructures (in the vocal tract and in the brain) thatseem, to a certain extent at least, to be specificallydedicated to their linguistic functions. In mostmature adults, language functions are carried outprimarily by the left cerebral hemisphere.
-3. The brain appears to be biased from birth to rep-resent language in the left hemisphere. In child-hood, however, the mapping of language functionto brain location is different and more diffuse thanit is in adults.
-4. The development of new techniques for imagingchildren’s brains has led to the development of anew field, developmental cognitive neuroscience,and the study of the neural underpinnings of language development is central topic in this field.
-5. Although many myths are associated with thecritical period hypothesis, there is clear evidencethat language acquisition is more successful whenit is begun early than when it is begun late, and ageof exposure has effects even within childhood. Theage boundaries for the sensitive period for languageacquisition may differ for different components oflanguage. There are probably multiple bases for theobserved age-of-acquisition effects, including thedeclining plasticity of the brain, effects of earlytuning of speech perception, and age-related dif-ferences in learning opportunities and motivation.
-6. Individual differences in language skill amongtypically developing children are, to a degree, genetically based, and language impairment has astrong genetic component. One gene that plays arole in language development, FOXP2, has been identified, but it is clear that multiple genetically based capacities contribute to language.
-7. The human capacity for language is species specific. The results of research on the naturallyoccurring communication systems of other animalsand the results of experiments that have attemptedto teach a human language to another primatesuggest that language is uniquely human. Mostinteresting, the comparisons of the human’scapacity for language to the ape’s capacity for lan-guage begin to provide a basis for hypotheses aboutthe nature and evolution of the uniquely humancharacteristics that account for language.
+1. Language is a universal characteristic of the human species. Not only do all human societies have language, but in situations where there is no target language to learn, humans in interaction will spontaneously create language.
+2. The capacity for language is served by physical structures (in the vocal tract and in the brain) that seem, to a certain extent at least, to be specifically dedicated to their linguistic functions. In most mature adults, language functions are carried out primarily by the left cerebral hemisphere.
+3. The brain appears to be biased from birth to rep-resent language in the left hemisphere. In child-hood, however, the mapping of language function to brain location is different and more diffuse than it is in adults.
+4. The development of new techniques for imaging children’s brains has led to the development of anew field, developmental cognitive neuroscience,and the study of the neural underpinnings of language development is central topic in this field.
+5. Although many myths are associated with the critical period hypothesis, there is clear evidence that language acquisition is more successful when it is begun early than when it is begun late, and age of exposure has effects even within childhood. The age boundaries for the sensitive period for language acquisition may differ for different components of language. There are probably multiple bases for the observed age-of-acquisition effects, including the declining plasticity of the brain, effects of early tuning of speech perception, and age-related differences in learning opportunities and motivation.
+6. Individual differences in language skill among typically developing children are, to a degree, genetically based, and language impairment has a strong genetic component. One gene that plays a role in language development, FOXP2, has been identified, but it is clear that multiple genetically based capacities contribute to language.
+7. The human capacity for language is species specific. The results of research on the naturally occurring communication systems of other animals and the results of experiments that have attempted to teach a human language to another primate suggest that language is uniquely human. Most interesting, the comparisons of the human’s capacity for language to the ape’s capacity for language begin to provide a basis for hypotheses about the nature and evolution of the uniquely human characteristics that account for language.
 
 ## Class Notes
 
@@ -139,7 +139,7 @@ This chapter considered language development as abiological phenomenon. The reas
 
     - Thee bees dance stating direction, distance, and richness of source
 
-    - The male baby birds learn from exposure to male adult birds how to attract mates, maintain terrorities via singing. Also, there is babbling (subsong), importance of deafening after vs. before acquisiton, critical period of langguage acquisition, social interaction and left hemisphere lateralization.
+    - The male baby birds learn from exposure to male adult birds how to attract mates, maintain territories via singing. Also, there is babbling (subsong), importance of deafening after vs. before acquisition, critical period of language acquisition, social interaction and left hemisphere lateralization.
 
 ##### The Acquisition of Human Language by Other Species
 
@@ -151,8 +151,8 @@ This chapter considered language development as abiological phenomenon. The reas
 
   - Signing apes:
     - *Washoe,* a 4 years old female chimp. Learned to produce 132 signs. … The sign combinations Washoe produces were always preceded by
-    - *Koko*, a gorilla. Patterson claimed that Koko not only understand "eveything that you say to her” but she also communicates via her sign language skills "about the way animals view the word.” **Careful analysis revealed that what Koko could do was limited.** All of Koko’s signs were signed first by the teacher.
-    - *Nim Chimpsky*, a chimpanzee who has learned more than 100 signs. The length and nature of the multisign utterances. His MLU was between 1.1 and 1.6 signs which is way less that a human child’s. Long sentences wre petetitions. His longest sentence is: GIVE ORANGE ME GIVE ORANGE GIVE ORNAGE ME GIVE ORANGE etc.
+    - *Koko*, a gorilla. Patterson claimed that Koko not only understand "everything that you say to her” but she also communicates via her sign language skills "about the way animals view the word.” **Careful analysis revealed that what Koko could do was limited.** All of Koko’s signs were signed first by the teacher.
+    - *Nim Chimpsky*, a chimpanzee who has learned more than 100 signs. The length and nature of the multi-sign utterances. His MLU was between 1.1 and 1.6 signs which is way less that a human child’s. Long sentences were repetitions. His longest sentence is: GIVE ORANGE ME GIVE ORANGE GIVE ORNAGE ME GIVE ORANGE etc.
     - They only used particular contexts such as food.
 
 - Artificial Language Projects
@@ -165,9 +165,9 @@ This chapter considered language development as abiological phenomenon. The reas
 
 - Language in a Bonobo
 
-  - A different species of chimpanzee (closer to humans). Upright opsture, eye-contact, gesture, and vocalization in communication more frequently than common chimps.
+  - A different species of chimpanzee (closer to humans). Upright posture, eye-contact, gesture, and vocalization in communication more frequently than common chimps.
 
-  - *Matata and Kanzi*: While teachers were teaching Matata, Kanzi –who was a baby– learned much more. Yet, still not symbolic, more instrument-like. Strawberry: outside the testing context, all Kanzi’s ses of strawberry resulted in his getting to eat strawberries. 
+  - *Matata and Kanzi*: While teachers were teaching Matata, Kanzi –who was a baby– learned much more. Yet, still not symbolic, more instrument-like. Strawberry: outside the testing context, all Kanzi’s sees of strawberry resulted in his getting to eat strawberries. 
 
     > “Give Sue the bubbles”, "Put the rubber band on the soap”, "Go to the oven and the the tomato”
 
@@ -175,7 +175,7 @@ This chapter considered language development as abiological phenomenon. The reas
 
 - Chimps are incapable of either learning a human language or creating their own because they are incapable of understanding that things have names.
 
-- Another pro: Chimpanzees lack culture. No socially transmitted behaviour. The chimpanzee’s ability to learn through interaction with others –that is, for the social transmission of behavior– is extremely limited. Chimpanzees do not figure put things.
+- Another pro: Chimpanzees lack culture. No socially transmitted behavior. The chimpanzee’s ability to learn through interaction with others –that is, for the social transmission of behavior– is extremely limited. Chimpanzees do not figure put things.
 
   - The lack of the social/cognitive ability to learn through interaction with others.
   - To attribute mental states to others: a theory of mind
@@ -202,7 +202,7 @@ This chapter considered language development as abiological phenomenon. The reas
    >
    > **fMRI**, like MEG, measures magnetic activity, but unlike MEG, its able to do so via tracking the blood flow, thus can be called an indirect approach. Since it makes use of blood flow and the blood flow itself has some lag, the patient has lie in the device without any movement, and even so the timings of the activities are not good enough as it is in MEG and ERP. Although, it has a pretty good spatial resolution. P.S. Too expensive.
    >
-   > **NIRS** measures the transmission of light through the brain tissue. Ligth and ligth sensors are placed on specific parts of the head and the measurements are collected by the light transmittability. Since it is light, it has an excellent temporal resolution (although the book never mentions this), but its spatial resolution is not as good as fMRI or MEG because it gets it data via collection of linears. Since these lines have depth (all through the other end of the head) it is still better than ERP. This technology is not as expensive as MEG or fMRI.
+   > **NIRS** measures the transmission of light through the brain tissue. Light and light sensors are placed on specific parts of the head and the measurements are collected by the light transmittability. Since it is light, it has an excellent temporal resolution (although the book never mentions this), but its spatial resolution is not as good as fMRI or MEG because it gets it data via collection of linear. Since these lines have depth (all through the other end of the head) it is still better than ERP. This technology is not as expensive as MEG or fMRI.
    
 4. Outline the evidence that language is a left-hemisphere function in adults.
 
@@ -210,23 +210,23 @@ This chapter considered language development as abiological phenomenon. The reas
 
 5. What is the role of the right hemisphere in normal language functioning?
 
-   > As evidenced by language impairments associated with right-hemisphere damage, the patients with the damaged brain sometimes produce abnormal intonation controur when they speak, and hey may have difficulty recognizing the emotional tone of an utterance. They also have difficulty understanding jokes and sarcasm, along with interpreting figurative language, and following indirect requests. These difficulties suggest that right-hemisphere may be involved in the pragmatic aspects of language use. Some ERP scans also show that the right hemisphere is activated by semantic processing.
+   > As evidenced by language impairments associated with right-hemisphere damage, the patients with the damaged brain sometimes produce abnormal intonation contour when they speak, and hey may have difficulty recognizing the emotional tone of an utterance. They also have difficulty understanding jokes and sarcasm, along with interpreting figurative language, and following indirect requests. These difficulties suggest that right-hemisphere may be involved in the pragmatic aspects of language use. Some ERP scans also show that the right hemisphere is activated by semantic processing.
 
 6. What is the evidence that the left hemisphere is specialized for language in children?
 
-   > Young infants show greater activation in the left hemisphere when presented with a variety of acoustics signals, not only speech. With newborns, it foundthat speech elicits greater left-hemisphere activation than does the same speech signal played in reverse (which removes the speech-like quality of the sound). Another evidence is that, in children who had learned to speak already, left-hemisphere damage is more likely to result in aphasia, whereas in children who did not acquire the language yet it less likely to result in aphasia. 
+   > Young infants show greater activation in the left hemisphere when presented with a variety of acoustics signals, not only speech. With newborns, it found that speech elicits greater left-hemisphere activation than does the same speech signal played in reverse (which removes the speech-like quality of the sound). Another evidence is that, in children who had learned to speak already, left-hemisphere damage is more likely to result in aphasia, whereas in children who did not acquire the language yet it less likely to result in aphasia. 
 
 7. Children recover from aphasia more quickly and more completely than adults do. Why?
 
-   > That’s related to the plasticity of their brain. Although right hemisphere is better at processing language naturally, a healthy person would just strengten the neural pathways accordingly to this natural inclination. Meaning that, during their first years of language development, right hemisphere is being trained to process this development, in the end, resulting in a productive system that rooted in the right part of the brain. But if the right part of the brain is unavailable during the language development, then left hemisphere is included in the process of the development. Thus resulting in a language development in the left brain that no adult can achieve after they already did the same in right-hemisphere during the initial language development (because left hemisphere is already developed not the process the language that much).
+   > That’s related to the plasticity of their brain. Although right hemisphere is better at processing language naturally, a healthy person would just strengthen the neural pathways accordingly to this natural inclination. Meaning that, during their first years of language development, right hemisphere is being trained to process this development, in the end, resulting in a productive system that rooted in the right part of the brain. But if the right part of the brain is unavailable during the language development, then left hemisphere is included in the process of the development. Thus resulting in a language development in the left brain that no adult can achieve after they already did the same in right-hemisphere during the initial language development (because left hemisphere is already developed not the process the language that much).
 
 8. What is neural plasticity, and what causes its decline?
 
-   > Neural plasticity is the brain’s ability to create specific areas for specific functions. When these specific areas for their specific functions are used over and over, the ties between the neurons are strenghtened in a way to make these functions easier for the brain to process. In the end, the brain would end up in some kind of tendency to “take the road more travelled by” and thus rendering itself unable to deconstruct the pathways and “make any difference” if required. 
+   > Neural plasticity is the brain’s ability to create specific areas for specific functions. When these specific areas for their specific functions are used over and over, the ties between the neurons are strengthened in a way to make these functions easier for the brain to process. In the end, the brain would end up in some kind of tendency to “take the road more travelled by” and thus rendering itself unable to deconstruct the pathways and “make any difference” if required. 
 
 9. What is meant by the critical period hypothesis, and what is the evidence regarding this hypothesis?
 
-   > It is the notion that a biologically determined period exists during which language acquisiton must occur, if it is to occur at all. Evidence for it comes from "Wild” Children who grew up as isolates from society and without the knowledge of language. When these children were found, it was found out that it was too late for them to acquire language
+   > It is the notion that a biologically determined period exists during which language acquisition must occur, if it is to occur at all. Evidence for it comes from "Wild” Children who grew up as isolates from society and without the knowledge of language. When these children were found, it was found out that it was too late for them to acquire language
 
 10. What kind of evidence would support the notion that human language is genetically based? What do the data suggest?
 
@@ -234,7 +234,7 @@ This chapter considered language development as abiological phenomenon. The reas
 
 11. What questions can be addressed by the study of animal communication systems and by the study of attempts to teach a human language to another primate? What answers does the evidence suggest?
 
-    > The study of animal communication systems can adress the question whether human language is unique or these systems can be described as "languages.” An attempt to teach human language to another primate would adress the question whether the language is a faculty that is solely unique to humans. The answers to these question vary depending on how one describes “language.” Nevertheless, the language acquiring capacity of other species had been found to be very limited. No other species can utilise language to the extent of how an adult human utilizes.
+    > The study of animal communication systems can address the question whether human language is unique or these systems can be described as "languages.” An attempt to teach human language to another primate would address the question whether the language is a faculty that is solely unique to humans. The answers to these question vary depending on how one describes “language.” Nevertheless, the language acquiring capacity of other species had been found to be very limited. No other species can utilize language to the extent of how an adult human utilizes.
 
 12. Explain and contrast the several proposed accounts of the evolution of language.
 
@@ -246,7 +246,7 @@ This chapter considered language development as abiological phenomenon. The reas
     >
     > **Language as Emergent from Other Cognitive and Social Capacities**: 
     >
-    > **Language as a by-product of evoution**: The alternative view claims that the capacity for language is not the result of evolutionbut rather is a by-product of other evolutionary changes. The capacities that underlielanguage were selected for other purposes and then recruited for language—much theway our nose has other reasons for its shape, even though it is useful for supporting eye-glasses. Similarly, there may have been a variety of selection pressures that operated toincrease the size and power of the brain (a generally better brain being a generally usefulthing to have). Then, having gotten so much larger in the service of general improve-ment in its old functions, the brain was also able to perform new functions. 
+    > **Language as a by-product of evolution: The alternative view claims that the capacity for language is not the result of evolution but rather is a by-product of other evolutionary changes. The capacities that underlie language were selected for other purposes and then recruited for language—much the way our nose has other reasons for its shape, even though it is useful for supporting eye-glasses. Similarly, there may have been a variety of selection pressures that operated to increase the size and power of the brain (a generally better brain being a generally useful thing to have). Then, having gotten so much larger in the service of general improvement in its old functions, the brain was also able to perform new functions. 
 
 ## Foundations of Language Development in Domain General Skills and Communicative Experience
 
@@ -277,7 +277,7 @@ The strongest evidence that children use the speech they hear as their database 
   We humans tend to give away what we are thinking about by where we are looking, and infants use this information.
   When children hear someone produce a novel word, they will take it …
 
-  - 2-year-olds will infer that a novel label produced with an expression of surprise refers to an object that is alos nove lto the speaker.
+  - 2-year-olds will infer that a novel label produced with an expression of surprise refers to an object that is novel to the speaker.
 
   Children learn language in the absence of joint attention. But it is in a slower pace.
 
